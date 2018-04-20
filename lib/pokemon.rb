@@ -24,6 +24,5 @@ class Pokemon
     self.hp = num
   end
   
-end
   
 end
